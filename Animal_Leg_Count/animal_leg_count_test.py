@@ -3,6 +3,7 @@ import animal_leg_count as alc
 
 # :'lion', 'deer', 'elephant', 'horse', 'dog', 'cat'
 
+
 class AnimalLegCountTest(unittest.TestCase):
 
     def test_four_leg_count_edge(self):
