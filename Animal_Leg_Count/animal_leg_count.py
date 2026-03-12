@@ -2,6 +2,8 @@
  return the count of animals that have exactly four legs. """
 
 # :'lion', 'deer', 'elephant', 'horse', 'dog', 'cat'
+
+
 def four_leg_count(forest_animals):
     if forest_animals is None:
         return -1

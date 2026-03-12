@@ -16,5 +16,6 @@ class AnimalLegCountTest(unittest.TestCase):
         self.assertEqual(alc.four_leg_count(['human', 'eagle', "butterfly"]), 0)
         self.assertEqual(alc.four_leg_count(['deer', 'elephant', 'horse']), 3)
 
+
 if __name__ == "__main__":
     unittest.main()
