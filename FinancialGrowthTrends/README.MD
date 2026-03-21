@@ -1,0 +1,1 @@
+time complexity is O(nlogn) because python default sorting algorithm uses the tim sort algorithm.
